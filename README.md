@@ -2,6 +2,6 @@
 
 | Miembro     | Rol en el equipo | Comando Git que más te ha costado |
 |-------------|------------------|-----------------------------------|
-| (Román)     |                  |                                   |
-| (Pol)       |                  |                                   |
-| (Didac)     |                  |                                   |
+| Román       |                  | git rebase -i                     |
+| (miembro B) |                  |                                   |
+| (miembro C) |                  |                                   |
