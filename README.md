@@ -1,2 +1,7 @@
-# -Grupo-3
-Repositorio del grupo 3 
+# <Grupo 3> — Proyecto 2
+
+| Miembro     | Rol en el equipo | Comando Git que más te ha costado |
+|-------------|------------------|-----------------------------------|
+| (Román)     |                  |                                   |
+| (Pol)       |                  |                                   |
+| (Didac)     |                  |                                   |
